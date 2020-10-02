@@ -125,7 +125,7 @@ article div :first-child {
   text-indent: 0;
 }
 
-article div :first-child::first-line {
+article .body-copy :first-child::first-line {
   color: #1e7c74;
   font-style: italic;
 }
@@ -159,4 +159,5 @@ footer {
   padding: 1rem;
   background-image: url("../images/anchors.svg");
   color: #fff;
+  background-color: #1e7c74;
 }
