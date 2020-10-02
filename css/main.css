@@ -21,6 +21,7 @@ body {
 img {
   display: block;
   width: 100%;
+  background-color: #259f95;
 }
 
 header {
@@ -30,6 +31,7 @@ header {
   font-style: normal;
   font-weight: normal;
   padding: 1rem;
+  background-color: #259f95;
 }
 
 header strong,
